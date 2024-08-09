@@ -8,3 +8,4 @@ requests
 bs4
 git+https://github.com/cinemagoer/cinemagoer
 aiohttp
+plugins.route
